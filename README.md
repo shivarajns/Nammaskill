@@ -19,7 +19,7 @@ Many government and private skill development centers offer valuable short-term 
 Namma-Skill solves this problem by providing:
 
 - 📚 A list of available skill courses
-- 🔍 Search functionality to find courses بسهولة
+- 🔍 Search functionality to find courses 
 - 🎯 Filters to refine results (category, duration, etc.)
 - 📅 Timely updates on new batches
 - 📍 Location-based discovery (future scope)
@@ -41,7 +41,7 @@ Namma-Skill solves this problem by providing:
 - **Android Studio**
 - **Kotlin**
 - **XML (UI Design)**
-- **Firebase** (if used)
+- **Firebase**
 - **Git & GitHub**
 
 ---
