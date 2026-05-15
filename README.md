@@ -48,8 +48,11 @@ Namma-Skill solves this problem by providing:
 
 ## 📸 Screenshots
 <img width="300px" height="500px" alt="Screenshot_20260515_101431" src="https://github.com/user-attachments/assets/7b6450d3-27fc-4107-beeb-123be8885ef2" />
+<br />
 <img width="300px" height="500px" alt="Screenshot_20260515_101440" src="https://github.com/user-attachments/assets/f6c9731c-340f-4749-b01a-a973968e3bf1" />
+<br />
 <img width="300px" height="500px" alt="Screenshot_20260515_101520" src="https://github.com/user-attachments/assets/82ac2846-6db2-4729-8430-04886d027558" />
+<br />
 <img width="300px" height="500px" alt="Screenshot_20260515_101528" src="https://github.com/user-attachments/assets/e8cc9976-4a92-4906-9336-2fd5a0ba1a04" />
 
 
